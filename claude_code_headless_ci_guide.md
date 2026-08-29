@@ -1,7 +1,7 @@
 # Claude Code：非対話モード（headless / CI）の構成についての解説
 
 > 対象: Claude Code の `claude -p`（非対話モード / Agent SDK CLI）  
-> 更新基準: 2026-08-29 時点のAnthropic公式ドキュメント  
+> 更新基準: 2026-08-28 時点のAnthropic公式ドキュメント  
 > 目的: スクリプトやCIからClaude Codeを呼ぶときに「何を渡し、何を受け取り、何に注意すべきか」を、設計意図も含めて理解する
 
 ---

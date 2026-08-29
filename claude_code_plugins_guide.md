@@ -1,7 +1,7 @@
 # Claude Code：Pluginの構成（中身）についての解説
 
 > 対象: Claude Code の Plugins  
-> 更新基準: 2026-08-29 時点のAnthropic公式ドキュメント  
+> 更新基準: 2026-08-28 時点のAnthropic公式ドキュメント  
 > 目的: Plugin（`plugin.json` とディレクトリ構成）を「何を・どこに置けばよいか」を、設計意図も含めて理解する
 
 ---

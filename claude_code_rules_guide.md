@@ -1,7 +1,7 @@
 # Claude Code：.claude/rules/の構成（中身）についての解説
 
 > 対象: Claude Code の `.claude/rules/`  
-> 更新基準: 2026-08-29 時点のAnthropic公式ドキュメント  
+> 更新基準: 2026-08-28 時点のAnthropic公式ドキュメント  
 > 目的: ルールをテーマ別・path別にどう分割し、`paths` をどう書けばよいかを、設計意図も含めて理解する
 
 ---

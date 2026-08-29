@@ -1,7 +1,7 @@
 # Claude Code：Hooksの構成（中身）についての解説
 
 > 対象: Claude Code の Hooks  
-> 更新基準: 2026-08-29 時点のAnthropic公式ドキュメント  
+> 更新基準: 2026-08-28 時点のAnthropic公式ドキュメント  
 > 目的: `settings.json` などに書くHook定義を「何を・どのイベントで・どう書けばよいか」を、設計意図も含めて理解する
 
 ---

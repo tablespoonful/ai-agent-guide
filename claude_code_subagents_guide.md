@@ -1,7 +1,7 @@
 # Claude Code：Subagent（.claude/agents/）の構成（中身）についての解説
 
 > 対象: Claude Code の Subagents  
-> 更新基準: 2026-08-29 時点のAnthropic公式ドキュメント  
+> 更新基準: 2026-08-28 時点のAnthropic公式ドキュメント  
 > 目的: `.claude/agents/*.md` に「何を・どのように書けばよいか」を、設計意図も含めて理解する
 
 ---

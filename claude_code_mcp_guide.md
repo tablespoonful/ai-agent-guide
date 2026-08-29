@@ -1,7 +1,7 @@
 # Claude Code：MCPサーバー設定の構成（中身）についての解説
 
 > 対象: Claude Code の MCP（Model Context Protocol）  
-> 更新基準: 2026-08-29 時点のAnthropic公式ドキュメント  
+> 更新基準: 2026-08-28 時点のAnthropic公式ドキュメント  
 > 目的: MCPサーバーをどのスコープにどう定義し、権限・認証・セキュリティをどう扱うかを、設計意図も含めて理解する
 
 ---
