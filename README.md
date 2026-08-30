@@ -99,6 +99,12 @@ CLAUDE.mdが肥大化する
 - [非対話モード（headless / CI）の構成](claude_code_headless_ci_guide.md)  
   `claude -p` の使い方。構造化出力、権限の事前指定、CI特有の注意点。
 
+## ベンチマーク
+
+- [AIコーディングエージェント AtCoder 性能比較（2026-08）](ai_agent_atcoder_benchmark_2026-08.md)
+  Claude Code / Codex / Cursor の計12モデルを AtCoder 60問で比較。難易度帯別の正解率、
+  所要時間、失敗原因の内訳。測定基盤の作り方と落とし穴も記載。
+
 ---
 
 # 3. 全体マップ
