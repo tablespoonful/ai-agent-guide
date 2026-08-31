@@ -72,22 +72,17 @@ run: `20260830-115924_official (最終・16モデル)`
 
 | 参加者 | アルゴリズム誤り | 計算量不足 | 実行時エラー | 指定言語外 | エージェント打ち切り | 解答を書かなかった |
 |---|---|---|---|---|---|---|
-| claude-code:opus | - | 1 | - | - | - | - |
-| claude-code:sonnet | 1 | 2 | - | - | 1 | - |
-| codex:gpt-5.6-luna | 3 | 9 | 1 | - | - | - |
-| claude-code:haiku | 2 | 32 | 1 | - | - | - |
-| codex:gpt-5.6-terra | 2 | 9 | - | - | - | - |
-| codex:gpt-5.6-sol | 1 | 6 | - | - | - | - |
-| codex:gpt-5.6-sol-high | - | 3 | - | - | - | - |
-| cursor:auto | - | 6 | - | 12 | - | 3 |
-| cursor:composer-2.5 | 3 | 10 | - | 13 | 1 | - |
-| cursor:gemini-3.7-flash-high | - | 6 | - | - | - | - |
-| cursor:cursor-grok-4.6-high | - | 4 | - | 1 | - | - |
-| cursor:kimi-k3-high | 4 | 6 | 2 | 1 | - | - |
 | claude-code:opus-high | - | - | - | - | 1 | - |
 | claude-code:sonnet-high | 1 | 1 | - | - | - | - |
-| codex:gpt-5.6-terra-high | 4 | 7 | - | - | - | - |
+| codex:gpt-5.6-sol-high | - | 3 | - | - | - | - |
+| cursor:cursor-grok-4.6-high | - | 4 | - | 1 | - | - |
+| cursor:gemini-3.7-flash-high | - | 6 | - | - | - | - |
 | codex:gpt-5.6-luna-high | 1 | 5 | - | - | - | - |
+| codex:gpt-5.6-terra-high | 4 | 7 | - | - | - | - |
+| cursor:kimi-k3-high | 4 | 6 | 2 | 1 | - | - |
+| cursor:auto | - | 6 | - | 12 | - | 3 |
+| cursor:composer-2.5 | 3 | 10 | - | 13 | 1 | - |
+| claude-code:haiku | 2 | 32 | 1 | - | - | - |
 
 ## 難易度帯ごとの正解率 (AC 数 / 試行数)
 
