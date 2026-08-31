@@ -99,6 +99,12 @@ CLAUDE.mdが肥大化する
 - [非対話モード（headless / CI）の構成](claude_code_headless_ci_guide.md)  
   `claude -p` の使い方。構造化出力、権限の事前指定、CI特有の注意点。
 
+## リファレンス
+
+- [Claude Code コマンド集](claude_code_commands_reference.md)
+  スラッシュコマンド 111 個、キーボードショートカット、CLI サブコマンドとオプションの一覧。
+  実機の `claude --help` と公式ドキュメントで裏取り済み。
+
 ## ベンチマーク
 
 - [AIコーディングエージェント AtCoder 性能比較（2026-08）](ai_agent_atcoder_benchmark_2026-08.md)
