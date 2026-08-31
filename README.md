@@ -108,8 +108,8 @@ CLAUDE.mdが肥大化する
 ## ベンチマーク
 
 - [AIコーディングエージェント AtCoder 性能比較（2026-08）](ai_agent_atcoder_benchmark_2026-08.md)
-  Claude Code / Codex / Cursor の計12モデルを AtCoder 60問で比較。難易度帯別の正解率、
-  所要時間、失敗原因の内訳。測定基盤の作り方と落とし穴も記載。
+  Claude Code / Codex / Cursor の計16モデルを AtCoder 60問で比較。推論量を揃えた公平な比較と、
+  推論量そのものの効果。所要時間、失敗原因の内訳、測定基盤の落とし穴も記載。
 
 ---
 
